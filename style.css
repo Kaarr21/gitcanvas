@@ -1,0 +1,32 @@
+.navbar{
+    display:flex;
+    justify-content: center;
+    background-color: #ffb6c1;
+    padding: 10px 0;
+}
+
+.navbar a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #ffc0cb;
+    border-radius: 5px;
+    margin: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+.navbar a:hover{
+    background-color:plum;
+}
+
+body{
+    background-image: url('14cb93cb-0b17-4348-b710-1fa33245c291.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+body{
+    color: white;
+}
